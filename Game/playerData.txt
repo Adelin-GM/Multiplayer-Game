@@ -1,0 +1,1 @@
+{"id":"75a18910-d356-456d-9946-1e39e7af2b7b","username":"PlayerY","beastScore":3,"date":"2022-01-12T10:34:22.265523Z","totalPlayersInTheGame":3,"roomName":"A","roundsWon":1,"showEnemyNameTags":true,"showYourNameTag":true}

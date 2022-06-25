@@ -1,0 +1,199 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.22f1 (a137e5fb0427) revision 10565605'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1645; Version 2009; 64bit' Language: 'en' Physical Memory: 16300 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.22f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+F:/Network Games CW 2/Network Games CW2/MultiplayerGame2
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55875
+Successfully changed project path to: F:/Network Games CW 2/Network Games CW2/MultiplayerGame2
+F:/Network Games CW 2/Network Games CW2/MultiplayerGame2
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 92.96 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.22f1 (a137e5fb0427)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.22f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/Network Games CW 2/Network Games CW2/MultiplayerGame2/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 5700 XT (ID=0x731f)
+    Vendor:   ATI
+    VRAM:     8151 MB
+    Driver:   30.0.14029.5006
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.22f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.22f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56776
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004447 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 92.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.558 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2558ms)
+		BeginReloadAssembly (84ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (551ms)
+			LoadAssemblies (79ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (206ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (253ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (93ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (112ms)
+				ProcessInitializeOnLoadMethodAttributes (38ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.018667 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image F:\Network Games CW 2\Network Games CW2\MultiplayerGame2\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Network Games CW 2\Network Games CW2\MultiplayerGame2\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.556 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1556ms)
+		BeginReloadAssembly (194ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (24ms)
+		EndReloadAssembly (1286ms)
+			LoadAssemblies (138ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (441ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (59ms)
+			SetupLoadedEditorAssemblies (564ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (78ms)
+				ProcessInitializeOnLoadAttributes (459ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3321 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.0 MB.
+System memory in use after: 142.3 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3790.
+Total: 3.762800 ms (FindLiveObjects: 0.315200 ms CreateObjectMapping: 0.192700 ms MarkObjects: 3.229500 ms  DeleteObjects: 0.023700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Photon/PhotonUnityNetworking/Code/PhotonUnityNetworking.asmdef
+  artifactKey: Guid(57c32fc907df0f54e8e6e8f0d2488336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Code/PhotonUnityNetworking.asmdef using Guid(57c32fc907df0f54e8e6e8f0d2488336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d277f423e933b8dafed955df4b0b537') in 0.025679 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.011076 seconds.
+  path: Assets/Photon/PhotonRealtime
+  artifactKey: Guid(b54c221855bde4a4ba511877e7b6b904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonRealtime using Guid(b54c221855bde4a4ba511877e7b6b904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1853110d76e01f5705f2d37ceb7762c') in 0.004480 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.626241 seconds.
+  path: Assets/Photon/PhotonUnityNetworking
+  artifactKey: Guid(d2b6672cc770a19438ff06fcb2637630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking using Guid(d2b6672cc770a19438ff06fcb2637630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '580ae2a1b45f7dc8566919de5762ad3d') in 0.003430 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.462397 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/PhotonUnityNetworking.Demos.asmdef
+  artifactKey: Guid(35cc2632df2760540bcc67312740008b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/PhotonUnityNetworking.Demos.asmdef using Guid(35cc2632df2760540bcc67312740008b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c39c90c9a45edae63be0e1cccf032d39') in 0.003703 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.057695 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Icons/PunIcon-128.png
+  artifactKey: Guid(bd293dc32f4aaf94e8274f2fac2cdf89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Icons/PunIcon-128.png using Guid(bd293dc32f4aaf94e8274f2fac2cdf89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '898ee226a260b873ef52520db86894cf') in 0.098042 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000419 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Icons/PunIconApp512.png
+  artifactKey: Guid(7377013011b4c3348809ff574abe799e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Icons/PunIconApp512.png using Guid(7377013011b4c3348809ff574abe799e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a38e5822dda78c9c9459f393b9d80d22') in 0.019011 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Icons/PunIconApp128.png
+  artifactKey: Guid(f00feafcf0675cd47a48f83ae42b06d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Icons/PunIconApp128.png using Guid(f00feafcf0675cd47a48f83ae42b06d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '668e617302534b33303b7b22766b265c') in 0.015157 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Icons/PunIconApp32.png
+  artifactKey: Guid(436c5e63723127948af8857e903f658a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Icons/PunIconApp32.png using Guid(436c5e63723127948af8857e903f658a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82090c22b4ba1b6f52318bacf5ebcac6') in 0.014130 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Icons/PunIconApp48.png
+  artifactKey: Guid(44ebd8e6f42cae445ab4b22f0a9b48a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Icons/PunIconApp48.png using Guid(44ebd8e6f42cae445ab4b22f0a9b48a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd757df7f71ae89b9b9e6b9e27522c575') in 0.012498 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.971423 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/UtilityScripts/PhotonUnityNetworking.Utilities.asmdef
+  artifactKey: Guid(a738238285a7a8246af046cbf977522f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/UtilityScripts/PhotonUnityNetworking.Utilities.asmdef using Guid(a738238285a7a8246af046cbf977522f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4615f99c06d747d1ccde67e4d3d275de') in 0.004348 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 241.820786 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Resources
+  artifactKey: Guid(5ae79711a135832498f18d43ce2bc76c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Resources using Guid(5ae79711a135832498f18d43ce2bc76c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0440f45e37da4c67c679f6f1a54a1c6') in 0.004112 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
